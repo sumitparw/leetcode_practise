@@ -1,4 +1,4 @@
-import string
+import formula
 def lengthOfLongestSubstring(s):
     leng = len(s)
     if (s == 0):
