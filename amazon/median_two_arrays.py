@@ -7,31 +7,11 @@ def findMedianSortedArrays(nums1,nums2):
     else:
         return nums_new[mid]
 
-def recursive_median(nums1, nums2, start):
-    end = min(len(nums1)-1, len(nums2)-1)
-    mid_tot = int((len(nums1) + len(nums2) + 1) / 2)
-
-    mid_x = int((start + end) / 2)
-    mid_y = mid_tot - mid_x
-    #while(mid_x>0 and mid_x<len(nums1) and mid_y>0 and mid_y<len(nums2)):
-    if nums1[mid_x] <= nums2[mid_y] and nums2[mid_y - 1] <= nums1[mid_x]:
-        if ((len(nums1) + len(nums2)) % 2 == 0):
-            return (max(nums1[mid_x - 1], nums2[mid_y - 1]), min(nums2[mid_y], nums1[mid_x])) / 2
-        else:
-            return (max(nums1[mid_x - 1], nums2[mid_y - 1]))
-    elif nums1[mid_x-1] > nums2[mid_y]:
-        start = start - 1
-        recursive_median(nums1, nums2, start)
-    else:
-        start = start + 1
-        recursive_median(nums1, nums2, start)
+def lognm_approach(arr1,n , arr2,m):
+    i =0
+    
 
 
-
-
-def optimized(nums1, nums2):
-    start = 0
-    return recursive_median(nums1, nums2, start)
 def median(new_arr):
     media = 0
     mid = 0
@@ -69,9 +49,12 @@ def anotheroptimized(nums1,nums2):
         media = median(new_arr)
     return media
 if __name__ == "__main__":
-    nums1 = [1, 3, 5,7]
-    nums2 = [2,4,6,8,9,10,11]
-    k = 2
+    nums1 = [1, 3, 5,7,8]
+    nums2 = [2,4,6,8]
     #print(findMedianSortedArrays(nums1, nums2))
-    print(optimized(nums1, nums2))
+    #print(lognm_approach(nums1,len(nums1), nums2,len(nums2)))
     #print(anotheroptimized(nums1, nums2))
+    x = "aaaakjlhaa"
+    y = "aa"
+    res = [i for i in range(len(x)) if x.startswith(y, i)]
+    print(len(res))
