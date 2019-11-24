@@ -2,18 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="593acd83-20eb-40ef-b906-de5c2527d855" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/linkedlist/basics_deletion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkedlist/basics_deletion_position.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkedlist/basics_insertion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkedlist/len_loop_linkedlist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkedlist/length.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkedlist/loop_linkedlist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkedlist/nth_index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkedlist/palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkedlist/remove loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkedlist/removing_duplicates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkedlist/reversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/array_duplicate_o1_no manipulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read_10_buf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xyz.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array_target.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/array_target.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formula.py" beforeDir="false" afterPath="$PROJECT_DIR$/strings/formula.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkedlist/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkedlist/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkedlist/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/packaging/requirements.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkedlist/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/packaging/requirements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkedlist/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkedlist/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pyparsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkedlist/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pytoml/parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkedlist/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pytoml/parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkedlist/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pytoml/writer.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkedlist/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pytoml/writer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/number_to_word" beforeDir="false" afterPath="$PROJECT_DIR$/strings/number_to_word" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings/lcs_dp.py" beforeDir="false" afterPath="$PROJECT_DIR$/strings/lcs_dp.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +39,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sumit\PycharmProjects\leetocde_practise\amazon" />
+      <recent name="C:\Users\sumit\PycharmProjects\leetocde_practise\strings" />
+      <recent name="C:\Users\sumit\PycharmProjects\leetocde_practise\array" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -50,8 +58,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.reversal">
-    <configuration name="len_loop_linkedlist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.read_10_buf">
+    <configuration name="array_duplicate_o1_no manipulation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leeetocde" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,12 +67,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/linkedlist" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/array" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linkedlist/len_loop_linkedlist.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\sumit\PycharmProjects\leetocde_practise\amazon\array_duplicate_o1_no manipulation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="remove loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="read_10_buf" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leeetocde" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,12 +111,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/linkedlist" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linkedlist/remove loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/read_10_buf.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.read_10_buf" />
+        <item itemvalue="Python.array_duplicate_o1_no manipulation" />
         <item itemvalue="Python.reversal" />
         <item itemvalue="Python.removing_duplicates" />
         <item itemvalue="Python.palindrome" />
-        <item itemvalue="Python.remove loop" />
-        <item itemvalue="Python.len_loop_linkedlist" />
       </list>
     </recent_temporary>
   </component>
@@ -194,6 +202,9 @@
       <workItem from="1571631230677" duration="15645000" />
       <workItem from="1572420383058" duration="28000" />
       <workItem from="1572912404661" duration="30526000" />
+      <workItem from="1573264372460" duration="1813000" />
+      <workItem from="1573541192960" duration="7234000" />
+      <workItem from="1574225676400" duration="241000" />
     </task>
     <servers />
   </component>
@@ -217,7 +228,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/formula.py</url>
+          <url>file://$PROJECT_DIR$/strings/formula.py</url>
           <line>35</line>
           <option name="timeStamp" value="62" />
         </line-breakpoint>
@@ -317,6 +328,7 @@
     <SUITE FILE_PATH="coverage/leeetocde$fraction_recurring_decimal.coverage" NAME="fraction_recurring_decimal Coverage Results" MODIFIED="1569805827175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetocde_practise$first_set_bit.coverage" NAME="first_set_bit Coverage Results" MODIFIED="1571736548213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bit_operation" />
     <SUITE FILE_PATH="coverage/leeetocde$panagram.coverage" NAME="panagram Coverage Results" MODIFIED="1570578508078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon" />
+    <SUITE FILE_PATH="coverage/leetocde_practise$array_duplicate_o1_no_manipulation.coverage" NAME="array_duplicate_o1_no manipulation Coverage Results" MODIFIED="1573548928290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
     <SUITE FILE_PATH="coverage/leeetocde$wayfair_aaa.coverage" NAME="wayfair_aaa Coverage Results" MODIFIED="1569920935623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leeetocde$wayfair.coverage" NAME="wayfair Coverage Results" MODIFIED="1569919661073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leeetocde$wayfair_abc.coverage" NAME="wayfair_abc Coverage Results" MODIFIED="1569985765380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -333,7 +345,7 @@
     <SUITE FILE_PATH="coverage/leetocde_practise$bit_difference.coverage" NAME="bit_difference Coverage Results" MODIFIED="1571739963398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bit_operation" />
     <SUITE FILE_PATH="coverage/leetocde_practise$loop_linkedlist.coverage" NAME="loop_linkedlist Coverage Results" MODIFIED="1573176388022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linkedlist" />
     <SUITE FILE_PATH="coverage/leeetocde$first_unique_character.coverage" NAME="first_unique-character Coverage Results" MODIFIED="1570749696504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon" />
-    <SUITE FILE_PATH="coverage/leetocde_practise$reversal.coverage" NAME="reversal Coverage Results" MODIFIED="1573198366232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linkedlist" />
+    <SUITE FILE_PATH="coverage/leetocde_practise$reversal.coverage" NAME="reversal Coverage Results" MODIFIED="1573548301015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linkedlist" />
     <SUITE FILE_PATH="coverage/leeetocde$coonecting_phrases.coverage" NAME="coonecting_phrases Coverage Results" MODIFIED="1569897140920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leeetocde$longest_common_substring.coverage" NAME="longest_common_substring Coverage Results" MODIFIED="1569474254353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetocde_practise$multiple_2.coverage" NAME="multiple_2 Coverage Results" MODIFIED="1570946119364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon" />
@@ -348,6 +360,7 @@
     <SUITE FILE_PATH="coverage/leetocde_practise$parking_dilema_twittter.coverage" NAME="parking_dilema_twittter Coverage Results" MODIFIED="1571105404448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon" />
     <SUITE FILE_PATH="coverage/leetocde_practise$palindrome.coverage" NAME="palindrome Coverage Results" MODIFIED="1573182902870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linkedlist" />
     <SUITE FILE_PATH="coverage/leetocde_practise$target_sum.coverage" NAME="target_sum Coverage Results" MODIFIED="1571624967496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
+    <SUITE FILE_PATH="coverage/leetocde_practise$read_10_buf.coverage" NAME="read_10_buf Coverage Results" MODIFIED="1573715462584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leeetocde$string.coverage" NAME="string Coverage Results" MODIFIED="1570144030928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
