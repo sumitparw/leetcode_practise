@@ -16,6 +16,7 @@ list_ = [2,4,5]
 x= 2^4
 y= 2^9
 z= 4^9
+print(bin(z))
 print(bin(z)[2:])
 print(bin(x)[2:])
 print(bin(y)[2:])

@@ -1,11 +1,13 @@
 def targetsum_set(arr,k):
     s =set()
+
     return_list = []
     for i in range(len(arr)):
         temp = k - arr[i]
         if temp in s:
             return_list.append((arr[i],k-arr[i]))
         s.add(arr[i])
+    
     return return_list
 def targetsum_sort(arr,k):
     arr =sorted(arr)
